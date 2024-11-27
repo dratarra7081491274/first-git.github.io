@@ -1,0 +1,70 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-out{
+    color:white;
+    border:1px solid rgb(35, 71, 199);
+    background-color: rgb(35, 71, 199);
+    
+    
+}
+.btn-out:hover{
+    background-color: white;
+    color: rgb(35, 71, 199);
+    border:1px solid rgb(35, 71, 199);
+}
+.banner-content h1{
+    font-size: 52px;
+    font-weight: 700;
+    
+}
+.banner-content h1 span{
+    color: rgb(35, 71, 199);
+}
+.banner-content p,.banner-content ul,.banner-content ul li{
+    font-size: 22px;
+    list-style: none;
+   
+}
+.banner-content ul li i{
+    color: rgb(35, 71, 199);
+    margin-right: 5px;
+}
+.Btncc{justify-content: space-between;}
+
+.Btncc button{
+    padding: 0.5rem;
+
+    border-radius: 0.3rem;
+    border:1px solid;
+
+   
+    
+}
+.Btncc button:first-child{
+    background-color: rgb(35, 71, 199);
+    color: white;
+}
+.Btncc button:first-child:hover{
+    color:rgb(35, 71, 199);
+    background-color: white;
+    border:1px solid rgb(35, 71, 199) ;
+}
+.shadow-lg h3{font-weight: bold;}
+.intype{background-color: rgb(35, 71, 199);
+    color: white;
+
+}
+
+.intype:hover{   color:rgb(35, 71, 199);
+    background-color: white;
+    border:1px solid rgb(35, 71, 199) ;}
+
+    .resgister input{
+        margin-top: 1rem;
+    }
+.bar h1{
+font-weight: bold;
+color:rgb(35, 71, 199) ;
+}
+    
